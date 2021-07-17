@@ -4,7 +4,8 @@
 
 é uma sequencia de passos que resolve um problema.
 
-```inicio-dia
+```.
+inicio-dia
     Acordei
     Levantei da cama
     Trooquei de roupa
