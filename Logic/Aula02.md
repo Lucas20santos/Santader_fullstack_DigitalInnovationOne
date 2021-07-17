@@ -16,3 +16,9 @@
     ...
 Fim-dia
 ```
+
+## O que é um pseudocódigo ?
+
+Pseudocódigo é uma forma genérica de escrever um algoritmo, utilizando 
+uma linguagem simples(nativa, ou seja, em português a quem o escreve, 
+de forma a ser entendida por qualquer pessoa).
